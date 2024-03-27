@@ -12,7 +12,7 @@
 * .dibuat oleh AXL dengan python3
 
 # Catatan!
-* .Repo terakhir tahun ini 2023, senang sekali bisa berbagi proyek saya dengan Anda tahun ini! Dan melihat pekerjaan saya tumbuh dan berkembang bersama Anda! Terima kasih atas semua dukungannya dan sampai jumpa lagi, di tahun 2024! FakeAXL00
+* .Repo terakhir tahun ini 2024, senang sekali bisa berbagi proyek saya dengan Anda tahun ini! Dan melihat pekerjaan saya tumbuh dan berkembang bersama Anda! Terima kasih atas semua dukungannya dan sampai jumpa lagi, di tahun 2025! FakeAXL00
 
 # Instalasi & Penggunaan
 * .Tidak diperlukan instalasi kecuali python 3 dan telegram desktop
